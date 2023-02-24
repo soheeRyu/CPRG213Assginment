@@ -1,3 +1,3 @@
-# Dog Daycare - Web development assignment
+# Dog Daycare 
 
 ✅Link : https://soheeryu.github.io/DogDaycare/
